@@ -1,20 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
 
 <head>
     <title>วิชาที่ลงทะเบียน</title>
-    <link rel="stylesheet" href="mystyle.css">
 </head>
 
 <body>
-<ul class="navbar">
-  <li><a href="http://angsila.cs.buu.ac.th/~58160644/887371/lab02/lab02.html">Home Page</a>
-  <li><a href="http://angsila.cs.buu.ac.th/~58160644/887371/lab01/aboutme.html">About Me</a>
-  <li><a href="http://angsila.cs.buu.ac.th/~58160644/887371/lab02/timetatle.html">Time Table</a>
-  <li><a href="http://angsila.cs.buu.ac.th/~58160644/887371/lab02/enroll.html">Enroll</a>
-  <li><a href="http://angsila.cs.buu.ac.th/~58160644/887371/lab02/gallery.html">Gallery</a>
-</ul>
     <center>
-        <h1>รายวิชาที่ลงทะเบียนทั้งหมด</h1>
         <table border="1" cellspacing="1" cellpadding="0" width="600">
             <tbody>
                 <tr>
@@ -139,7 +130,7 @@
                         <font color="#000000">2</font>
                     </td>
                 </tr>
-                <tr bgcolor="#FFFFFF">
+                <tr>
                     <td></td>
                     <td align="RIGHT" colspan="2">
                         <font color="black"><b>จำนวนหน่วยกิตรวม</b></font>
@@ -151,7 +142,5 @@
                 </tr>
             </tbody>
         </table>
-<address>Amornthep Wongwas<br>
-  58160644 Sec.2</address>
 </body>
 </html>

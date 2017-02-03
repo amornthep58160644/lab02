@@ -15,7 +15,6 @@
   <li><a href="http://angsila.cs.buu.ac.th/~58160644/887371/lab02/enroll.html">Enroll</a>
   <li><a href="http://angsila.cs.buu.ac.th/~58160644/887371/lab02/gallery.html">Gallery</a>
 </ul>
-    <center>
     <h1>Time table</h1>
         <p><table border="1" cellspacing="1" cellpadding="0" width="990">
             <tbody>
@@ -166,7 +165,6 @@
                 </tr>
             </tbody>
         </table>
-<address>Amornthep Wongwas<br>
-  58160644 Sec.2</address>
 </body>
+
 </html>

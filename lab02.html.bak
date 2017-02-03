@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
 <html>
 <head>
-  <title>Home Page</title>
+  <title>My first styled page</title>
 	<link rel="stylesheet" href="mystyle.css">
 </head>
 
@@ -15,14 +15,22 @@
   <li><a href="http://angsila.cs.buu.ac.th/~58160644/887371/lab02/enroll.html">Enroll</a>
   <li><a href="http://angsila.cs.buu.ac.th/~58160644/887371/lab02/gallery.html">Gallery</a>
 </ul>
-<center>
+
 <!-- Main content -->
-<h1>Home Page</h1>
-<p><img src="DSC_0075.JPG" width=400 height="300">
+<h1>My first styled page</h1>
+
+<p>Welcome to my styled page!
+
+<p>It lacks images, but at least it has style.
+And it has links, even if they don't go
+anywhere&hellip;
+
+<p>There should be more here, but I don't know
+what yet.
 
 <!-- Sign and date the page, it's only polite! -->
-<address>Amornthep Wongwas<br>
-  58160644 Sec.2</address>
+<address>Made 5 April 2004<br>
+  by myself.</address>
 
 </body>
 </html>
